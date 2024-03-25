@@ -14,7 +14,9 @@ root.render(
   </React.StrictMode>
 );
 
-// unregister() to register() below. Note this comes with some pitfalls.
+// unregister() to  git add .
+git commit -m "CSC-56 Implemented the new feature"
+register() below. Note this comes with some pitfalls.
 // Learn more about service workers: https://cra.link/PWA
 serviceWorkerRegistration.unregister();
 
