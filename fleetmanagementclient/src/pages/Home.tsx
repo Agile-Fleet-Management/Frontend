@@ -6,7 +6,7 @@ const Home = () => {
   return (
     <div>
       <h1>{message}</h1>
-      <button onClick={() => setMessage('Thank   for clicking!')}>
+      <button onClick={() => setMessage('Thanks for clicking!')}>
         Click Me
       </button>
     </div>
