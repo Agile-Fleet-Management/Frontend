@@ -22,7 +22,7 @@ jobs:
       run: cd fleetmanagementclient
 
     - name: Install dependencies
-      run: npm ci
+      run: npm install
       working-directory: ./fleetmanagementclient
 
     - name: Run tests
