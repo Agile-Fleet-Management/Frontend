@@ -5,19 +5,14 @@ import Login from './pages/Login';
 import * as serviceWorkerRegistration from './serviceWorkerRegistration';
 import reportWebVitals from './reportWebVitals';
 
-const root = ReactDOM.createRoot(
-  document.getElementById('root') as HTMLElement
-);
-root.render(
+ReactDOM.render(
   <React.StrictMode>
     <Login />
-  </React.StrictMode>
+  </React.StrictMode>,
+  document.getElementById('root')
 );
 
-// unregister() to  git add .
-//git commit -m "CSC-56 Implemented the new feature"
-//register() below. Note this comes with some pitfalls.
-// Learn more about service workers: https://cra.link/PWA
+// Unregister the service worker (optional)
 serviceWorkerRegistration.unregister();
 
 // If you want to start measuring performance in your app, pass a function
