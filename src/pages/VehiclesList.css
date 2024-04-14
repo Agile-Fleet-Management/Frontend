@@ -1,0 +1,1881 @@
+.vehicles-list .image-1 {
+  background: url('assets/images/Image1.png') 50% / cover no-repeat;
+  width: 64px;
+  height: 78px;
+}
+.vehicles-list .image-2 {
+  background: url('assets/images/Image2.png') 50% / cover no-repeat;
+  margin: 13px 0 5px 0;
+  width: 140px;
+  height: 60px;
+}
+.vehicles-list .top-nav {
+  box-shadow: 0px 4px 10px 0px #1B4332;
+  border-bottom: 1px solid #1B4332;
+  background: #1B4332;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding-right: 36px;
+  box-sizing: border-box;
+}
+.vehicles-list .avatar {
+  border-radius: 36.2px;
+  background: url('assets/images/Avatar.jpeg') 50% / cover no-repeat;
+  margin-right: 12px;
+  width: 44px;
+  height: 44px;
+}
+.vehicles-list .admin-name-adminexample-com {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 12px;
+  color: #000000;
+}
+.vehicles-list .content {
+  margin: 7px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.vehicles-list .profil {
+  margin-bottom: 24px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.vehicles-list .divider {
+  border-radius: 2px;
+  background: #F6F6F6;
+  margin-bottom: 24px;
+  width: 208px;
+  height: 2px;
+}
+.vehicles-list .overline {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 10px;
+  letter-spacing: 0.4px;
+  line-height: 1.2;
+  text-transform: uppercase;
+  color: #757575;
+}
+.vehicles-list .title {
+  margin: 0 12px 8px 12px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.vehicles-list .union {
+  width: 16.7px;
+  height: 16.1px;
+}
+.vehicles-list .icon-home-simple-door {
+  margin: 2.2px 13.7px 1.7px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 16.7px;
+  height: 16.1px;
+  box-sizing: border-box;
+}
+.vehicles-list .label {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 14px;
+  letter-spacing: -0.3px;
+  line-height: 1.429;
+  color: #757575;
+}
+.vehicles-list .link {
+  border-radius: 8px;
+  background: #FFFFFF;
+  margin-bottom: 18px;
+  display: flex;
+  flex-direction: row;
+  padding: 10px 0 10px 13.7px;
+  width: 208px;
+  box-sizing: border-box;
+}
+.vehicles-list .union-1 {
+  width: 13.3px;
+  height: 15px;
+}
+.vehicles-list .icon-user-1 {
+  margin: 2.5px 15.3px 2.5px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 13.3px;
+  height: 15px;
+  box-sizing: border-box;
+}
+.vehicles-list .label-1 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 14px;
+  letter-spacing: -0.3px;
+  line-height: 1.429;
+  color: #757575;
+}
+.vehicles-list .container-3 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.vehicles-list .union-2 {
+  width: 9.3px;
+  height: 5.3px;
+}
+.vehicles-list .icon-chevron {
+  margin: 7.3px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 9.3px;
+  height: 5.3px;
+  box-sizing: border-box;
+}
+.vehicles-list .link-1 {
+  border-radius: 8px;
+  margin: 0 15.3px 18px 15.3px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 177.3px;
+  box-sizing: border-box;
+}
+.vehicles-list .vector {
+  margin: 2px 12px 2px 0;
+  width: 19px;
+  height: 16px;
+}
+.vehicles-list .label-2 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 14px;
+  letter-spacing: -0.3px;
+  line-height: 1.429;
+  color: #000000;
+}
+.vehicles-list .pointing {
+  box-shadow: 0px 1px 0.8px 0px rgba(0, 0, 0, 0.5);
+  width: 14.4px;
+  height: 15.3px;
+}
+.vehicles-list .cursor-pointer {
+  position: absolute;
+  right: 29.2px;
+  bottom: 0.3px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 14.4px;
+  height: 15.3px;
+  box-sizing: border-box;
+}
+.vehicles-list .link-2 {
+  border-radius: 8px;
+  background: #E1E6EF;
+  position: relative;
+  margin-bottom: 18px;
+  display: flex;
+  flex-direction: row;
+  padding: 10px 0 10px 12px;
+  width: 208px;
+  box-sizing: border-box;
+}
+.vehicles-list .union-3 {
+  width: 16.7px;
+  height: 17.5px;
+}
+.vehicles-list .icon-calendar {
+  margin: 0.8px 13.7px 1.7px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 16.7px;
+  height: 17.5px;
+  box-sizing: border-box;
+}
+.vehicles-list .label-3 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 14px;
+  letter-spacing: -0.3px;
+  line-height: 1.429;
+  color: #757575;
+}
+.vehicles-list .link-3 {
+  border-radius: 8px;
+  margin: 0 13.7px 18px 13.7px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.vehicles-list .union-4 {
+  width: 16.7px;
+  height: 16.7px;
+}
+.vehicles-list .icon-reports {
+  margin: 1.7px 13.7px 1.7px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 16.7px;
+  height: 16.7px;
+  box-sizing: border-box;
+}
+.vehicles-list .label-4 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 14px;
+  letter-spacing: -0.3px;
+  line-height: 1.429;
+  color: #757575;
+}
+.vehicles-list .link-4 {
+  border-radius: 8px;
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: row;
+  padding: 10px 0 10px 13.7px;
+  width: 208px;
+  box-sizing: border-box;
+}
+.vehicles-list .dropdown {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 208px;
+  box-sizing: border-box;
+}
+.vehicles-list .navigation {
+  margin-bottom: 24px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.vehicles-list .divider-1 {
+  border-radius: 2px;
+  background: #F6F6F6;
+  margin-bottom: 24px;
+  width: 208px;
+  height: 2px;
+}
+.vehicles-list .overline-1 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 10px;
+  letter-spacing: 0.4px;
+  line-height: 1.2;
+  text-transform: uppercase;
+  color: #757575;
+}
+.vehicles-list .title-1 {
+  margin-bottom: 18px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.vehicles-list .union-5 {
+  width: 18.3px;
+  height: 18.3px;
+}
+.vehicles-list .icon-settings {
+  margin: 0.8px 12.8px 0.8px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 18.3px;
+  height: 18.3px;
+  box-sizing: border-box;
+}
+.vehicles-list .label-5 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 14px;
+  letter-spacing: -0.3px;
+  line-height: 1.429;
+  color: #757575;
+}
+.vehicles-list .container-2 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.vehicles-list .union-6 {
+  width: 9.3px;
+  height: 5.3px;
+}
+.vehicles-list .icon-chevron-1 {
+  margin: 7.3px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 9.3px;
+  height: 5.3px;
+  box-sizing: border-box;
+}
+.vehicles-list .link-5 {
+  border-radius: 8px;
+  margin-left: 0.8px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 179.8px;
+  box-sizing: border-box;
+}
+.vehicles-list .navigation-1 {
+  margin: 0 3.3px 276px 0;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.vehicles-list .union-7 {
+  width: 18.3px;
+  height: 18.3px;
+}
+.vehicles-list .icon-help-circle {
+  margin: 0.8px 12.8px 0.8px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 18.3px;
+  height: 18.3px;
+  box-sizing: border-box;
+}
+.vehicles-list .label-6 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 14px;
+  letter-spacing: -0.3px;
+  line-height: 1.429;
+  color: #757575;
+}
+.vehicles-list .link-6 {
+  border-radius: 8px;
+  margin-bottom: 28px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.vehicles-list .union-8 {
+  width: 13.3px;
+  height: 16.7px;
+}
+.vehicles-list .icon-log-out {
+  margin: 1.7px 15.3px 1.7px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 13.3px;
+  height: 16.7px;
+  box-sizing: border-box;
+}
+.vehicles-list .label-7 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 14px;
+  letter-spacing: -0.3px;
+  line-height: 1.429;
+  color: #D55F5A;
+}
+.vehicles-list .link-7 {
+  border-radius: 8px;
+  margin-left: 2.5px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.vehicles-list .navigation-2 {
+  margin-right: 48.3px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.vehicles-list .union-9 {
+  width: 5.3px;
+  height: 9.3px;
+}
+.vehicles-list .icon-chevron-2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 5.3px;
+  height: 9.3px;
+  box-sizing: border-box;
+}
+.vehicles-list .button {
+  border-radius: 8px;
+  border: 1px solid #F6F6F6;
+  background: #FFFFFF;
+  position: absolute;
+  top: 34px;
+  right: -14px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 8.3px 10.3px;
+  width: 28px;
+  height: 28px;
+  box-sizing: border-box;
+}
+.vehicles-list .sidebar-open {
+  border-radius: 12px;
+  border-right: 1px solid rgba(0, 0, 0, 0.1);
+  background: #FFFFFF;
+  position: relative;
+  margin-right: 90px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 24px 23px 34px 24px;
+  box-sizing: border-box;
+}
+.vehicles-list .back-rect-2 {
+  box-shadow: 0px 12.7px 22.5px 0px rgba(208, 210, 218, 0.15);
+  border-radius: 14.1px;
+  background: #FFFFFF;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 100%;
+}
+.vehicles-list .compact {
+  margin: 15.1px 37.4px 28px 0;
+  width: 82px;
+  height: 39px;
+}
+.vehicles-list .cars {
+  margin-bottom: 3px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Aoboshi One';
+  font-weight: 400;
+  font-size: 11.3px;
+  color: #92959E;
+}
+.vehicles-list .container {
+  margin: 0 1px 0 8.3px;
+  overflow-wrap: break-word;
+  font-family: 'Almarai';
+  font-weight: 700;
+  font-size: 14.1px;
+  color: #15192C;
+}
+.vehicles-list .container-1 {
+  margin: 16.1px 66px 30px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.vehicles-list .line-1 {
+  background: #ECECEE;
+  width: 0.7px;
+  height: 82.1px;
+}
+.vehicles-list .car {
+  position: relative;
+  margin-right: 8.3px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.vehicles-list .semi-1 {
+  margin: 13.1px 46.4px 25px 0;
+  width: 100px;
+  height: 44px;
+}
+.vehicles-list .semi {
+  margin-bottom: 2px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Aoboshi One';
+  font-weight: 400;
+  font-size: 11.3px;
+  color: #92959E;
+}
+.vehicles-list .container-1 {
+  margin: 0 6.1px 0 9px;
+  overflow-wrap: break-word;
+  font-family: 'Alike';
+  font-weight: 400;
+  font-size: 14.1px;
+  color: #15192C;
+}
+.vehicles-list .group-2 {
+  margin: 16.1px 55.1px 29px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.vehicles-list .line-2 {
+  background: #ECECEE;
+  width: 0.7px;
+  height: 82.1px;
+}
+.vehicles-list .truck {
+  position: relative;
+  margin-right: 5.4px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.vehicles-list .suv-1 {
+  margin: 13.1px 21.2px 26px 0;
+  width: 106px;
+  height: 43px;
+}
+.vehicles-list .suvs {
+  margin-bottom: 10px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Aoboshi One';
+  font-weight: 400;
+  font-size: 11.3px;
+  color: #92959E;
+}
+.vehicles-list .container-2 {
+  margin: 0 13.3px 0 10px;
+  overflow-wrap: break-word;
+  font-family: 'Almarai';
+  font-weight: 700;
+  font-size: 14.1px;
+  color: #15192C;
+}
+.vehicles-list .group-3 {
+  margin: 16.1px 46.2px 23px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.vehicles-list .line-3 {
+  background: #ECECEE;
+  width: 0.7px;
+  height: 82.1px;
+}
+.vehicles-list .suv {
+  position: relative;
+  margin-right: 9.2px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.vehicles-list .truck-2 {
+  margin: 17.1px 13.2px 26px 0;
+  width: 111px;
+  height: 39px;
+}
+.vehicles-list .truck-1 {
+  margin-bottom: 10px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Aoboshi One';
+  font-weight: 400;
+  font-size: 11.3px;
+  color: #92959E;
+}
+.vehicles-list .container-3 {
+  margin: 0 13.3px 0 10px;
+  overflow-wrap: break-word;
+  font-family: 'Almarai';
+  font-weight: 700;
+  font-size: 14.1px;
+  color: #15192C;
+}
+.vehicles-list .group-31 {
+  margin: 16.1px 46.2px 23px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.vehicles-list .line-31 {
+  background: #ECECEE;
+  width: 0.7px;
+  height: 82.1px;
+}
+.vehicles-list .small-truck {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.vehicles-list .top-view-bar {
+  border-radius: 27px;
+  position: relative;
+  margin: 0 0 71px 3px;
+  display: flex;
+  flex-direction: row;
+  padding: 23.9px 0 0 7px;
+  width: 1046px;
+  box-sizing: border-box;
+}
+.vehicles-list .text {
+  overflow-wrap: break-word;
+  font-family: 'Almarai';
+  font-weight: 700;
+  font-size: 14px;
+  letter-spacing: 0.3px;
+  line-height: 1.143;
+  text-transform: capitalize;
+  color: var(--text-icon-primary-black, #1D2433);
+}
+.vehicles-list .header-cells {
+  border-bottom: 1px solid var(--neutral-300, #E1E6EF);
+  background: var(--neutral-200, #F1F3F9);
+  padding: 12px 8px 11px 8px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.vehicles-list .text-1 {
+  overflow-wrap: break-word;
+  font-family: 'Almarai';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.429;
+  color: var(--text-icon-primary-black, #1D2433);
+}
+.vehicles-list .data-cells-10 {
+  border-bottom: 1px solid var(--neutral-300, #E1E6EF);
+  background: #FFFFFF;
+  padding: 10px 8px 9px 8px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.vehicles-list .text-2 {
+  overflow-wrap: break-word;
+  font-family: 'Almarai';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.429;
+  color: var(--text-icon-primary-black, #1D2433);
+}
+.vehicles-list .data-cells-11 {
+  border-bottom: 1px solid var(--neutral-300, #E1E6EF);
+  background: #FFFFFF;
+  padding: 10px 8px 9px 8px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.vehicles-list .text-3 {
+  overflow-wrap: break-word;
+  font-family: 'Almarai';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.429;
+  color: var(--text-icon-primary-black, #1D2433);
+}
+.vehicles-list .data-cells-12 {
+  border-bottom: 1px solid var(--neutral-300, #E1E6EF);
+  background: #FFFFFF;
+  padding: 10px 8px 9px 8px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.vehicles-list .text-4 {
+  overflow-wrap: break-word;
+  font-family: 'Almarai';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.429;
+  color: var(--text-icon-primary-black, #1D2433);
+}
+.vehicles-list .data-cells-13 {
+  border-bottom: 1px solid var(--neutral-300, #E1E6EF);
+  background: #FFFFFF;
+  padding: 10px 8px 9px 8px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.vehicles-list .text-5 {
+  overflow-wrap: break-word;
+  font-family: 'Almarai';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.429;
+  color: var(--text-icon-primary-black, #1D2433);
+}
+.vehicles-list .data-cells-14 {
+  border-bottom: 1px solid var(--neutral-300, #E1E6EF);
+  background: #FFFFFF;
+  padding: 10px 8px 9px 8px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.vehicles-list .text-6 {
+  overflow-wrap: break-word;
+  font-family: 'Almarai';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.429;
+  color: var(--text-icon-primary-black, #1D2433);
+}
+.vehicles-list .data-cells-15 {
+  border-bottom: 1px solid var(--neutral-300, #E1E6EF);
+  background: #FFFFFF;
+  padding: 10px 8px 9px 8px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.vehicles-list .text-7 {
+  overflow-wrap: break-word;
+  font-family: 'Almarai';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.429;
+  color: var(--text-icon-primary-black, #1D2433);
+}
+.vehicles-list .data-cells-16 {
+  border-bottom: 1px solid var(--neutral-300, #E1E6EF);
+  background: #FFFFFF;
+  padding: 10px 8px 9px 8px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.vehicles-list .text-8 {
+  overflow-wrap: break-word;
+  font-family: 'Almarai';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.429;
+  color: var(--text-icon-primary-black, #1D2433);
+}
+.vehicles-list .data-cells-17 {
+  border-bottom: 1px solid var(--neutral-300, #E1E6EF);
+  background: #FFFFFF;
+  padding: 10px 8px 9px 8px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.vehicles-list .text-9 {
+  overflow-wrap: break-word;
+  font-family: 'Almarai';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.429;
+  color: var(--text-icon-primary-black, #1D2433);
+}
+.vehicles-list .data-cells-18 {
+  border-bottom: 1px solid var(--neutral-300, #E1E6EF);
+  background: #FFFFFF;
+  padding: 10px 8px 9px 8px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.vehicles-list .text-10 {
+  overflow-wrap: break-word;
+  font-family: 'Almarai';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.429;
+  color: var(--text-icon-primary-black, #1D2433);
+}
+.vehicles-list .data-cells-19 {
+  border-bottom: 1px solid var(--neutral-300, #E1E6EF);
+  background: #FFFFFF;
+  padding: 10px 8px 9px 8px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.vehicles-list .columns {
+  display: flex;
+  flex-direction: column;
+  width: 158.3px;
+  box-sizing: border-box;
+}
+.vehicles-list .text-11 {
+  overflow-wrap: break-word;
+  font-family: 'Almarai';
+  font-weight: 700;
+  font-size: 14px;
+  letter-spacing: 0.3px;
+  line-height: 1.143;
+  text-transform: capitalize;
+  color: var(--text-icon-primary-black, #1D2433);
+}
+.vehicles-list .header-cells-1 {
+  border-bottom: 1px solid var(--neutral-300, #E1E6EF);
+  background: var(--neutral-200, #F1F3F9);
+  padding: 12px 8px 11px 8px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.vehicles-list .text-12 {
+  overflow-wrap: break-word;
+  font-family: 'Almarai';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.429;
+  color: var(--text-icon-primary-black, #1D2433);
+}
+.vehicles-list .data-cells-20 {
+  border-bottom: 1px solid var(--neutral-300, #E1E6EF);
+  background: #FFFFFF;
+  padding: 10px 8px 9px 8px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.vehicles-list .text-13 {
+  overflow-wrap: break-word;
+  font-family: 'Almarai';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.429;
+  color: var(--text-icon-primary-black, #1D2433);
+}
+.vehicles-list .data-cells-21 {
+  border-bottom: 1px solid var(--neutral-300, #E1E6EF);
+  background: #FFFFFF;
+  padding: 10px 8px 9px 8px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.vehicles-list .text-14 {
+  overflow-wrap: break-word;
+  font-family: 'Almarai';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.429;
+  color: var(--text-icon-primary-black, #1D2433);
+}
+.vehicles-list .data-cells-22 {
+  border-bottom: 1px solid var(--neutral-300, #E1E6EF);
+  background: #FFFFFF;
+  padding: 10px 8px 9px 8px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.vehicles-list .text-15 {
+  overflow-wrap: break-word;
+  font-family: 'Almarai';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.429;
+  color: var(--text-icon-primary-black, #1D2433);
+}
+.vehicles-list .data-cells-23 {
+  border-bottom: 1px solid var(--neutral-300, #E1E6EF);
+  background: #FFFFFF;
+  padding: 10px 8px 9px 8px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.vehicles-list .text-16 {
+  overflow-wrap: break-word;
+  font-family: 'Almarai';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.429;
+  color: var(--text-icon-primary-black, #1D2433);
+}
+.vehicles-list .data-cells-24 {
+  border-bottom: 1px solid var(--neutral-300, #E1E6EF);
+  background: #FFFFFF;
+  padding: 10px 8px 9px 8px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.vehicles-list .text-17 {
+  overflow-wrap: break-word;
+  font-family: 'Almarai';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.429;
+  color: var(--text-icon-primary-black, #1D2433);
+}
+.vehicles-list .data-cells-25 {
+  border-bottom: 1px solid var(--neutral-300, #E1E6EF);
+  background: #FFFFFF;
+  padding: 10px 8px 9px 8px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.vehicles-list .text-18 {
+  overflow-wrap: break-word;
+  font-family: 'Almarai';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.429;
+  color: var(--text-icon-primary-black, #1D2433);
+}
+.vehicles-list .data-cells-26 {
+  border-bottom: 1px solid var(--neutral-300, #E1E6EF);
+  background: #FFFFFF;
+  padding: 10px 8px 9px 8px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.vehicles-list .text-19 {
+  overflow-wrap: break-word;
+  font-family: 'Almarai';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.429;
+  color: var(--text-icon-primary-black, #1D2433);
+}
+.vehicles-list .data-cells-27 {
+  border-bottom: 1px solid var(--neutral-300, #E1E6EF);
+  background: #FFFFFF;
+  padding: 10px 8px 9px 8px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.vehicles-list .text-20 {
+  overflow-wrap: break-word;
+  font-family: 'Almarai';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.429;
+  color: var(--text-icon-primary-black, #1D2433);
+}
+.vehicles-list .data-cells-28 {
+  border-bottom: 1px solid var(--neutral-300, #E1E6EF);
+  background: #FFFFFF;
+  padding: 10px 8px 9px 8px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.vehicles-list .text-21 {
+  overflow-wrap: break-word;
+  font-family: 'Almarai';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.429;
+  color: var(--text-icon-primary-black, #1D2433);
+}
+.vehicles-list .data-cells-29 {
+  border-bottom: 1px solid var(--neutral-300, #E1E6EF);
+  background: #FFFFFF;
+  padding: 10px 8px 9px 8px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.vehicles-list .columns-1 {
+  display: flex;
+  flex-direction: column;
+  width: 158.3px;
+  box-sizing: border-box;
+}
+.vehicles-list .text-44 {
+  overflow-wrap: break-word;
+  font-family: 'Almarai';
+  font-weight: 700;
+  font-size: 14px;
+  letter-spacing: 0.3px;
+  line-height: 1.143;
+  text-transform: capitalize;
+  color: var(--text-icon-primary-black, #1D2433);
+}
+.vehicles-list .header-cells-4 {
+  border-bottom: 1px solid var(--neutral-300, #E1E6EF);
+  background: var(--neutral-200, #F1F3F9);
+  padding: 12px 8px 11px 8px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.vehicles-list .text-45 {
+  overflow-wrap: break-word;
+  font-family: 'Almarai';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.429;
+  color: var(--text-icon-primary-black, #1D2433);
+}
+.vehicles-list .data-cells-50 {
+  border-bottom: 1px solid var(--neutral-300, #E1E6EF);
+  background: #FFFFFF;
+  padding: 10px 8px 9px 8px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.vehicles-list .text-46 {
+  overflow-wrap: break-word;
+  font-family: 'Almarai';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.429;
+  color: var(--text-icon-primary-black, #1D2433);
+}
+.vehicles-list .data-cells-51 {
+  border-bottom: 1px solid var(--neutral-300, #E1E6EF);
+  background: #FFFFFF;
+  padding: 10px 8px 9px 8px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.vehicles-list .text-47 {
+  overflow-wrap: break-word;
+  font-family: 'Almarai';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.429;
+  color: var(--text-icon-primary-black, #1D2433);
+}
+.vehicles-list .data-cells-52 {
+  border-bottom: 1px solid var(--neutral-300, #E1E6EF);
+  background: #FFFFFF;
+  padding: 10px 8px 9px 8px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.vehicles-list .text-48 {
+  overflow-wrap: break-word;
+  font-family: 'Almarai';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.429;
+  color: var(--text-icon-primary-black, #1D2433);
+}
+.vehicles-list .data-cells-53 {
+  border-bottom: 1px solid var(--neutral-300, #E1E6EF);
+  background: #FFFFFF;
+  padding: 10px 8px 9px 8px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.vehicles-list .text-49 {
+  overflow-wrap: break-word;
+  font-family: 'Almarai';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.429;
+  color: var(--text-icon-primary-black, #1D2433);
+}
+.vehicles-list .data-cells-54 {
+  border-bottom: 1px solid var(--neutral-300, #E1E6EF);
+  background: #FFFFFF;
+  padding: 10px 8px 9px 8px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.vehicles-list .text-50 {
+  overflow-wrap: break-word;
+  font-family: 'Almarai';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.429;
+  color: var(--text-icon-primary-black, #1D2433);
+}
+.vehicles-list .data-cells-55 {
+  border-bottom: 1px solid var(--neutral-300, #E1E6EF);
+  background: #FFFFFF;
+  padding: 10px 8px 9px 8px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.vehicles-list .text-51 {
+  overflow-wrap: break-word;
+  font-family: 'Almarai';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.429;
+  color: var(--text-icon-primary-black, #1D2433);
+}
+.vehicles-list .data-cells-56 {
+  border-bottom: 1px solid var(--neutral-300, #E1E6EF);
+  background: #FFFFFF;
+  padding: 10px 8px 9px 8px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.vehicles-list .text-52 {
+  overflow-wrap: break-word;
+  font-family: 'Almarai';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.429;
+  color: var(--text-icon-primary-black, #1D2433);
+}
+.vehicles-list .data-cells-57 {
+  border-bottom: 1px solid var(--neutral-300, #E1E6EF);
+  background: #FFFFFF;
+  padding: 10px 8px 9px 8px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.vehicles-list .text-53 {
+  overflow-wrap: break-word;
+  font-family: 'Almarai';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.429;
+  color: var(--text-icon-primary-black, #1D2433);
+}
+.vehicles-list .data-cells-58 {
+  border-bottom: 1px solid var(--neutral-300, #E1E6EF);
+  background: #FFFFFF;
+  padding: 10px 8px 9px 8px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.vehicles-list .text-54 {
+  overflow-wrap: break-word;
+  font-family: 'Almarai';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.429;
+  color: var(--text-icon-primary-black, #1D2433);
+}
+.vehicles-list .data-cells-59 {
+  border-bottom: 1px solid var(--neutral-300, #E1E6EF);
+  background: #FFFFFF;
+  padding: 10px 8px 9px 8px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.vehicles-list .columns-4 {
+  display: flex;
+  flex-direction: column;
+  width: 158.3px;
+  box-sizing: border-box;
+}
+.vehicles-list .text-22 {
+  overflow-wrap: break-word;
+  font-family: 'Almarai';
+  font-weight: 700;
+  font-size: 14px;
+  letter-spacing: 0.3px;
+  line-height: 1.143;
+  text-transform: capitalize;
+  color: var(--text-icon-primary-black, #1D2433);
+}
+.vehicles-list .header-cells-2 {
+  border-bottom: 1px solid var(--neutral-300, #E1E6EF);
+  background: var(--neutral-200, #F1F3F9);
+  padding: 12px 8px 11px 8px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.vehicles-list .text-23 {
+  overflow-wrap: break-word;
+  font-family: 'Almarai';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.429;
+  color: var(--text-icon-primary-black, #1D2433);
+}
+.vehicles-list .data-cells-30 {
+  border-bottom: 1px solid var(--neutral-300, #E1E6EF);
+  background: #FFFFFF;
+  padding: 10px 8px 9px 8px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.vehicles-list .text-24 {
+  overflow-wrap: break-word;
+  font-family: 'Almarai';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.429;
+  color: var(--text-icon-primary-black, #1D2433);
+}
+.vehicles-list .data-cells-31 {
+  border-bottom: 1px solid var(--neutral-300, #E1E6EF);
+  background: #FFFFFF;
+  padding: 10px 8px 9px 8px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.vehicles-list .text-25 {
+  overflow-wrap: break-word;
+  font-family: 'Almarai';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.429;
+  color: var(--text-icon-primary-black, #1D2433);
+}
+.vehicles-list .data-cells-32 {
+  border-bottom: 1px solid var(--neutral-300, #E1E6EF);
+  background: #FFFFFF;
+  padding: 10px 8px 9px 8px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.vehicles-list .text-26 {
+  overflow-wrap: break-word;
+  font-family: 'Almarai';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.429;
+  color: var(--text-icon-primary-black, #1D2433);
+}
+.vehicles-list .data-cells-33 {
+  border-bottom: 1px solid var(--neutral-300, #E1E6EF);
+  background: #FFFFFF;
+  padding: 10px 8px 9px 8px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.vehicles-list .text-27 {
+  overflow-wrap: break-word;
+  font-family: 'Almarai';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.429;
+  color: var(--text-icon-primary-black, #1D2433);
+}
+.vehicles-list .data-cells-34 {
+  border-bottom: 1px solid var(--neutral-300, #E1E6EF);
+  background: #FFFFFF;
+  padding: 10px 8px 9px 8px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.vehicles-list .text-28 {
+  overflow-wrap: break-word;
+  font-family: 'Almarai';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.429;
+  color: var(--text-icon-primary-black, #1D2433);
+}
+.vehicles-list .data-cells-35 {
+  border-bottom: 1px solid var(--neutral-300, #E1E6EF);
+  background: #FFFFFF;
+  padding: 10px 8px 9px 8px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.vehicles-list .text-29 {
+  overflow-wrap: break-word;
+  font-family: 'Almarai';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.429;
+  color: var(--text-icon-primary-black, #1D2433);
+}
+.vehicles-list .data-cells-36 {
+  border-bottom: 1px solid var(--neutral-300, #E1E6EF);
+  background: #FFFFFF;
+  padding: 10px 8px 9px 8px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.vehicles-list .text-30 {
+  overflow-wrap: break-word;
+  font-family: 'Almarai';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.429;
+  color: var(--text-icon-primary-black, #1D2433);
+}
+.vehicles-list .data-cells-37 {
+  border-bottom: 1px solid var(--neutral-300, #E1E6EF);
+  background: #FFFFFF;
+  padding: 10px 8px 9px 8px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.vehicles-list .text-31 {
+  overflow-wrap: break-word;
+  font-family: 'Almarai';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.429;
+  color: var(--text-icon-primary-black, #1D2433);
+}
+.vehicles-list .data-cells-38 {
+  border-bottom: 1px solid var(--neutral-300, #E1E6EF);
+  background: #FFFFFF;
+  padding: 10px 8px 9px 8px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.vehicles-list .text-32 {
+  overflow-wrap: break-word;
+  font-family: 'Almarai';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.429;
+  color: var(--text-icon-primary-black, #1D2433);
+}
+.vehicles-list .data-cells-39 {
+  border-bottom: 1px solid var(--neutral-300, #E1E6EF);
+  background: #FFFFFF;
+  padding: 10px 8px 9px 8px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.vehicles-list .columns-2 {
+  display: flex;
+  flex-direction: column;
+  width: 158.3px;
+  box-sizing: border-box;
+}
+.vehicles-list .text-33 {
+  overflow-wrap: break-word;
+  font-family: 'Almarai';
+  font-weight: 700;
+  font-size: 14px;
+  letter-spacing: 0.3px;
+  line-height: 1.143;
+  text-transform: capitalize;
+  color: var(--text-icon-primary-black, #1D2433);
+}
+.vehicles-list .header-cells-3 {
+  border-bottom: 1px solid var(--neutral-300, #E1E6EF);
+  background: var(--neutral-200, #F1F3F9);
+  padding: 12px 8px 11px 8px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.vehicles-list .text-34 {
+  overflow-wrap: break-word;
+  font-family: 'Almarai';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.429;
+  color: var(--text-icon-primary-black, #1D2433);
+}
+.vehicles-list .data-cells-40 {
+  border-bottom: 1px solid var(--neutral-300, #E1E6EF);
+  background: #FFFFFF;
+  padding: 10px 8px 9px 8px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.vehicles-list .text-35 {
+  overflow-wrap: break-word;
+  font-family: 'Almarai';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.429;
+  color: var(--text-icon-primary-black, #1D2433);
+}
+.vehicles-list .data-cells-41 {
+  border-bottom: 1px solid var(--neutral-300, #E1E6EF);
+  background: #FFFFFF;
+  padding: 10px 8px 9px 8px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.vehicles-list .text-36 {
+  overflow-wrap: break-word;
+  font-family: 'Almarai';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.429;
+  color: var(--text-icon-primary-black, #1D2433);
+}
+.vehicles-list .data-cells-42 {
+  border-bottom: 1px solid var(--neutral-300, #E1E6EF);
+  background: #FFFFFF;
+  padding: 10px 8px 9px 8px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.vehicles-list .text-37 {
+  overflow-wrap: break-word;
+  font-family: 'Almarai';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.429;
+  color: var(--text-icon-primary-black, #1D2433);
+}
+.vehicles-list .data-cells-43 {
+  border-bottom: 1px solid var(--neutral-300, #E1E6EF);
+  background: #FFFFFF;
+  padding: 10px 8px 9px 8px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.vehicles-list .text-38 {
+  overflow-wrap: break-word;
+  font-family: 'Almarai';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.429;
+  color: var(--text-icon-primary-black, #1D2433);
+}
+.vehicles-list .data-cells-44 {
+  border-bottom: 1px solid var(--neutral-300, #E1E6EF);
+  background: #FFFFFF;
+  padding: 10px 8px 9px 8px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.vehicles-list .text-39 {
+  overflow-wrap: break-word;
+  font-family: 'Almarai';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.429;
+  color: var(--text-icon-primary-black, #1D2433);
+}
+.vehicles-list .data-cells-45 {
+  border-bottom: 1px solid var(--neutral-300, #E1E6EF);
+  background: #FFFFFF;
+  padding: 10px 8px 9px 8px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.vehicles-list .text-40 {
+  overflow-wrap: break-word;
+  font-family: 'Almarai';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.429;
+  color: var(--text-icon-primary-black, #1D2433);
+}
+.vehicles-list .data-cells-46 {
+  border-bottom: 1px solid var(--neutral-300, #E1E6EF);
+  background: #FFFFFF;
+  padding: 10px 8px 9px 8px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.vehicles-list .text-41 {
+  overflow-wrap: break-word;
+  font-family: 'Almarai';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.429;
+  color: var(--text-icon-primary-black, #1D2433);
+}
+.vehicles-list .data-cells-47 {
+  border-bottom: 1px solid var(--neutral-300, #E1E6EF);
+  background: #FFFFFF;
+  padding: 10px 8px 9px 8px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.vehicles-list .text-42 {
+  overflow-wrap: break-word;
+  font-family: 'Almarai';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.429;
+  color: var(--text-icon-primary-black, #1D2433);
+}
+.vehicles-list .data-cells-48 {
+  border-bottom: 1px solid var(--neutral-300, #E1E6EF);
+  background: #FFFFFF;
+  padding: 10px 8px 9px 8px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.vehicles-list .text-43 {
+  overflow-wrap: break-word;
+  font-family: 'Almarai';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.429;
+  color: var(--text-icon-primary-black, #1D2433);
+}
+.vehicles-list .data-cells-49 {
+  border-bottom: 1px solid var(--neutral-300, #E1E6EF);
+  background: #FFFFFF;
+  padding: 10px 8px 9px 8px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.vehicles-list .columns-3 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  width: 158.3px;
+  box-sizing: border-box;
+}
+.vehicles-list .header-cells-5 {
+  border-bottom: 1px solid var(--neutral-300, #E1E6EF);
+  background: var(--neutral-200, #F1F3F9);
+  position: absolute;
+  top: 0px;
+  right: 1px;
+  width: 158.3px;
+  height: 40px;
+}
+.vehicles-list .text-55 {
+  overflow-wrap: break-word;
+  font-family: 'Almarai';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.429;
+  color: #00B7FE;
+}
+.vehicles-list .data-cells-60 {
+  border-bottom: 1px solid var(--neutral-300, #E1E6EF);
+  background: #FFFFFF;
+  position: absolute;
+  top: 40px;
+  right: 1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 10px 0 9px 0;
+  width: 158.3px;
+  box-sizing: border-box;
+}
+.vehicles-list .text-56 {
+  overflow-wrap: break-word;
+  font-family: 'Almarai';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.429;
+  color: #00B7FE;
+}
+.vehicles-list .data-cells-61 {
+  border-bottom: 1px solid var(--neutral-300, #E1E6EF);
+  background: #FFFFFF;
+  position: absolute;
+  top: 80px;
+  right: 1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 10px 0 9px 0;
+  width: 158.3px;
+  box-sizing: border-box;
+}
+.vehicles-list .text-64 {
+  overflow-wrap: break-word;
+  font-family: 'Almarai';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.429;
+  color: #00B7FE;
+}
+.vehicles-list .data-cells-7 {
+  border-bottom: 1px solid var(--neutral-300, #E1E6EF);
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 10px 0 9px 0;
+  width: 158.3px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.vehicles-list .data-cells-62 {
+  border-bottom: 1px solid var(--neutral-300, #E1E6EF);
+  background: #FFFFFF;
+  position: absolute;
+  top: 120px;
+  right: 1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 158.3px;
+  box-sizing: border-box;
+}
+.vehicles-list .text-65 {
+  overflow-wrap: break-word;
+  font-family: 'Almarai';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.429;
+  color: #00B7FE;
+}
+.vehicles-list .data-cells-8 {
+  border-bottom: 1px solid var(--neutral-300, #E1E6EF);
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 10px 0 9px 0;
+  width: 158.3px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.vehicles-list .data-cells-63 {
+  border-bottom: 1px solid var(--neutral-300, #E1E6EF);
+  background: #FFFFFF;
+  position: absolute;
+  top: 160px;
+  right: 1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 158.3px;
+  box-sizing: border-box;
+}
+.vehicles-list .text-66 {
+  overflow-wrap: break-word;
+  font-family: 'Almarai';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.429;
+  color: #00B7FE;
+}
+.vehicles-list .data-cells-9 {
+  border-bottom: 1px solid var(--neutral-300, #E1E6EF);
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 10px 0 9px 0;
+  width: 158.3px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.vehicles-list .data-cells-64 {
+  border-bottom: 1px solid var(--neutral-300, #E1E6EF);
+  background: #FFFFFF;
+  position: absolute;
+  top: 50%;
+  right: 1px;
+  translate: 0 -50%;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 158.3px;
+  box-sizing: border-box;
+}
+.vehicles-list .text-60 {
+  overflow-wrap: break-word;
+  font-family: 'Almarai';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.429;
+  color: #00B7FE;
+}
+.vehicles-list .data-cells-3 {
+  border-bottom: 1px solid var(--neutral-300, #E1E6EF);
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 10px 0 9px 0;
+  width: 158.3px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.vehicles-list .data-cells-65 {
+  border-bottom: 1px solid var(--neutral-300, #E1E6EF);
+  background: #FFFFFF;
+  position: absolute;
+  right: 1px;
+  bottom: 160px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 158.3px;
+  box-sizing: border-box;
+}
+.vehicles-list .text-61 {
+  overflow-wrap: break-word;
+  font-family: 'Almarai';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.429;
+  color: #00B7FE;
+}
+.vehicles-list .data-cells-4 {
+  border-bottom: 1px solid var(--neutral-300, #E1E6EF);
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 10px 0 9px 0;
+  width: 158.3px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.vehicles-list .data-cells-66 {
+  border-bottom: 1px solid var(--neutral-300, #E1E6EF);
+  background: #FFFFFF;
+  position: absolute;
+  right: 1px;
+  bottom: 120px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 158.3px;
+  box-sizing: border-box;
+}
+.vehicles-list .text-59 {
+  overflow-wrap: break-word;
+  font-family: 'Almarai';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.429;
+  color: #00B7FE;
+}
+.vehicles-list .data-cells-2 {
+  border-bottom: 1px solid var(--neutral-300, #E1E6EF);
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 10px 0 9px 0;
+  width: 158.3px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.vehicles-list .data-cells-67 {
+  border-bottom: 1px solid var(--neutral-300, #E1E6EF);
+  background: #FFFFFF;
+  position: absolute;
+  right: 1px;
+  bottom: 80px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 158.3px;
+  box-sizing: border-box;
+}
+.vehicles-list .text-62 {
+  overflow-wrap: break-word;
+  font-family: 'Almarai';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.429;
+  color: #00B7FE;
+}
+.vehicles-list .data-cells-5 {
+  border-bottom: 1px solid var(--neutral-300, #E1E6EF);
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 10px 0 9px 0;
+  width: 158.3px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.vehicles-list .data-cells-68 {
+  border-bottom: 1px solid var(--neutral-300, #E1E6EF);
+  background: #FFFFFF;
+  position: absolute;
+  right: 1px;
+  bottom: 40px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 158.3px;
+  box-sizing: border-box;
+}
+.vehicles-list .text-63 {
+  overflow-wrap: break-word;
+  font-family: 'Almarai';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.429;
+  color: #00B7FE;
+}
+.vehicles-list .data-cells-6 {
+  border-bottom: 1px solid var(--neutral-300, #E1E6EF);
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 10px 0 9px 0;
+  width: 158.3px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.vehicles-list .data-cells-69 {
+  border-bottom: 1px solid var(--neutral-300, #E1E6EF);
+  background: #FFFFFF;
+  position: absolute;
+  right: 1px;
+  bottom: 0px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 158.3px;
+  box-sizing: border-box;
+}
+.vehicles-list .text-57 {
+  overflow-wrap: break-word;
+  font-family: 'Almarai';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.429;
+  color: #00B7FE;
+}
+.vehicles-list .data-cells {
+  border-bottom: 1px solid var(--neutral-300, #E1E6EF);
+  background: #FFFFFF;
+  position: absolute;
+  top: 80px;
+  right: 0px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 10px 0 9px 0;
+  width: 158.3px;
+  box-sizing: border-box;
+}
+.vehicles-list .text-58 {
+  overflow-wrap: break-word;
+  font-family: 'Almarai';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.429;
+  color: #00B7FE;
+}
+.vehicles-list .data-cells-1 {
+  border-bottom: 1px solid var(--neutral-300, #E1E6EF);
+  background: #FFFFFF;
+  position: absolute;
+  top: 40px;
+  right: 0px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 10px 0 9px 0;
+  width: 158.3px;
+  box-sizing: border-box;
+}
+.vehicles-list .vehicle-list-table {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  column-gap: 0px;
+  width: 939px;
+  box-sizing: border-box;
+}
+.vehicles-list .container {
+  margin: 86px 0 144px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.vehicles-list {
+  border: 1px solid #000000;
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: row;
+  padding: 0 44px 1px 0;
+  width: 1440px;
+  box-sizing: border-box;
+}

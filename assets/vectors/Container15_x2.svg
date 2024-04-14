@@ -1,0 +1,16 @@
+<svg width="1160" height="444" viewBox="0 0 1160 444" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<line x1="1159.495" y1="406.69" x2="-0.497" y2="406.69" stroke="#ECECEE" stroke-width="0.704" stroke-miterlimit="3.999327"/>
+<path d="M109.835,312.321C70.522,324.801 2.32,295.897 2.32,295.897L2.32,442.589L1055.698,442.589L1055.698,83.815C1011.482,70.447 951.794,-31.171 925.046,8.122C843.39,128.088 746.122,-2.804 655.578,35.257C563.198,74.09 541.348,143.236 441.908,147.368C395.864,149.281 402.862,276.139 356.848,278.759C309.866,281.433 266.598,173.413 222.114,189.498C174.559,206.695 157.979,297.037 109.835,312.321Z" fill="url(#pf_0_38_186)"/>
+<line x1="1076.438" y1="396.132" x2="1076.438" y2="415.84" stroke="#ECECEE" stroke-width="1.408" stroke-miterlimit="3.999327" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="870.905" y1="396.132" x2="870.905" y2="415.84" stroke="#ECECEE" stroke-width="1.408" stroke-miterlimit="3.999327" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="665.373" y1="396.132" x2="665.373" y2="415.84" stroke="#ECECEE" stroke-width="1.408" stroke-miterlimit="3.999327" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="459.84" y1="396.132" x2="459.84" y2="415.84" stroke="#ECECEE" stroke-width="1.408" stroke-miterlimit="3.999327" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="254.308" y1="396.132" x2="254.308" y2="415.84" stroke="#ECECEE" stroke-width="1.408" stroke-miterlimit="3.999327" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="48.776" y1="396.132" x2="48.776" y2="415.84" stroke="#ECECEE" stroke-width="1.408" stroke-miterlimit="3.999327" stroke-linecap="round" stroke-linejoin="round"/>
+<defs>
+<linearGradient id="pf_0_38_186" x1="580.725" y1="-60.838" x2="580.725" y2="434.019" gradientUnits="userSpaceOnUse">
+<stop stop-color="#F3F0FF"/>
+<stop offset="1" stop-color="#F1EDFF" stop-opacity="0"/>
+</linearGradient>
+</defs>
+</svg>
