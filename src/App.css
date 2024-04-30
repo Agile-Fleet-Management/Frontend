@@ -1,0 +1,61 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&display=swap");
+html, body, #root{
+  min-height: 100vh;
+}
+*{
+  font-family: 'Inter';
+}
+.main{
+  background: linear-gradient(#1B4332 50%, #fff 50%);
+}
+:root{
+  --main: #23A6F0;
+}
+.text-sm{
+  font-size: 0.85rem !important;
+}
+.text-main{
+  color: var(--main);
+}
+.btn-main {
+  --bs-btn-color: #fff;
+  --bs-btn-bg: #23A6F0;
+  --bs-btn-border-color: #23A6F0;
+  --bs-btn-hover-color: #fff;
+  --bs-btn-hover-bg: #3176df;
+  --bs-btn-hover-border-color: #3176df;
+  --bs-btn-focus-shadow-rgb: 49, 132, 253;
+  --bs-btn-active-color: #fff;
+  --bs-btn-active-bg: #2f76e0;
+  --bs-btn-active-border-color: #2f76e0;
+  --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+  --bs-btn-disabled-color: #fff;
+  --bs-btn-disabled-bg: #65c7ff;
+  --bs-btn-disabled-border-color: #65c7ff;
+}
+.table-main thead tr th{
+  background-color: #F1F3F9;
+  font-size: 0.9rem;
+}
+.form-border{
+  border: 6px solid #1B4332;
+}
+.word-wrp{
+  word-wrap: normal !important;
+  overflow-wrap: normal !important;
+}
+
+.showDialog{
+  animation: 0.5s SlideFromTop forwards;
+}
+
+@keyframes SlideFromTop {
+  from{
+    opacity: 0;
+    transform: translateY(-100%);
+  }
+  to{
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
